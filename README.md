@@ -1,4 +1,3 @@
-# SP500-Machine-Learning-Backtest
 # Quantitative Market Forecasting: S&P 500 Directional Backtest
 
 **Author:** Bayan
