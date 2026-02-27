@@ -1,6 +1,6 @@
 # Quantitative Market Forecasting: S&P 500 Directional Backtest
 
-**Author:** Bayan
+**Author:** Bayan Taqi
 
 ## 📌 Executive Summary
 This project builds an end-to-end machine learning pipeline to forecast the daily directional movement of the S&P 500 index (SPY). Rather than just evaluating model accuracy, this repository simulates a real-world trading strategy to test if historical price action and engineered volatility metrics can generate alpha against a standard Buy-and-Hold baseline.
