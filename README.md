@@ -14,3 +14,4 @@ Businesses generate massive amounts of time-series data (sales, traffic, revenue
 * **Python** (Pandas, NumPy, Scikit-Learn)
 * **Data Visualization** (Matplotlib, Seaborn)
 * **Jupyter Notebooks** for reproducible reporting
+![Alt text](images/moving_averages.jpg)
